@@ -3,7 +3,8 @@
 ***🚀 Project Overview***
 
 This project integrates LLaMA-2 (7B) with Retrieval-Augmented Generation (RAG) to enhance text generation using retrieved external knowledge. It leverages LangChain, ChromaDB, and Hugging Face Transformers to optimize response accuracy, efficiency, and context-awareness.
-📌 Features
+
+***📌 Features***
 
 🔍 RAG Implementation: Enhances LLM responses by retrieving relevant text snippets before generation.
 
@@ -15,7 +16,7 @@ This project integrates LLaMA-2 (7B) with Retrieval-Augmented Generation (RAG) t
 
 🧠 LangChain Integration: Combines retrieval & generation pipelines for structured LLM responses.
 
-🛠️ Installation & Setup
+***🛠️ Installation & Setup***
 
 1️⃣ Clone the repository:
   git clone https://github.com/PadhmaCebolu/RAG-Enabled-LLMs-Advanced-Retrieval-Techniques-for-Smarter-AI.git
@@ -57,7 +58,7 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 
 5️⃣ Run the Jupyter Notebook: nhancing LLaMA-2 with Retrieval-Augmented Generation (RAG).ipynb
 
-📈 Expected Results
+***📈 Expected Results***
 
 ✅ Improved factual accuracy in responses by retrieving external knowledge.
 
@@ -65,7 +66,7 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 
 ✅ Faster response times with efficient model quantization.
 
-📌 Future Enhancements
+***📌 Future Enhancements***
 
 🔹 Expand dataset for better retrieval performance.
 
@@ -73,11 +74,11 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 
 🔹 Fine-tune LLaMA-2 on domain-specific knowledge.
 
-🤝 Contributing
+***🤝 Contributing***
 
 Interested in improving this project? Fork the repo, make your changes, and submit a PR!
 
-🏆 Acknowledgments
+***🏆 Acknowledgments***
 
 Meta AI - LLaMA-2
 
