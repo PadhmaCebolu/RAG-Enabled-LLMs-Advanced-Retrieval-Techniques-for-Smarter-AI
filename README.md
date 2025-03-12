@@ -1,6 +1,6 @@
-📚 Enhancing LLaMA-2 with Retrieval-Augmented Generation (RAG)
+**📚 Enhancing LLaMA-2 with Retrieval-Augmented Generation (RAG)**
 
-🚀 Project Overview
+***🚀 Project Overview***
 
 This project integrates LLaMA-2 (7B) with Retrieval-Augmented Generation (RAG) to enhance text generation using retrieved external knowledge. It leverages LangChain, ChromaDB, and Hugging Face Transformers to optimize response accuracy, efficiency, and context-awareness.
 📌 Features
